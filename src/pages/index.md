@@ -58,7 +58,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Business design
-        image: images/service-1.svg
+        image: /images/sororitygrouppictureleaves.jpg
         content: |-
           - Research and insight
           - Business innovation and transformation
