@@ -13,11 +13,11 @@ thumb_image: "/images/weddingringsfingers.jpg"
 thumb_image_alt: Wedding Thumbnail text
 sections:
 - template: image_section
-  width: regular
+  width: wide
   type: image_section
   image: "/images/femaleroyaltyportrait.jpg"
   image_alt: ''
-  caption: ''
+  caption: Wedding royalty
 - template: image_section
   width: wide
   type: image_section
