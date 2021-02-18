@@ -24,5 +24,9 @@ sections:
   image: "/images/prettyeyeswithflowers.jpg"
   image_alt: 'wide width of image '
   caption: widing width under caption
+- template: text_section
+  type: text_section
+  content: f![](/images/prettyeyeswithflowers.jpg)![](/images/prettyeyeswithflowersportrait.jpg)this
+    is  atest to seee
 
 ---
