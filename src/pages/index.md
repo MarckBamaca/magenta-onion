@@ -57,7 +57,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        title: Business design
+        title: Group and Greek Life shoots
         image: /images/sororitygrouppictureleaves.jpg
         content: |-
           - Research and insight
