@@ -24,7 +24,7 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Work",
+                "label": "Portfolio",
                 "url": "/portfolio/",
                 "style": "link",
                 "icon": "",
