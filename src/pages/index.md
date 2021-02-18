@@ -35,7 +35,7 @@ sections:
         image_alt: Logo 2
       - type: grid_item
         template: grid_item
-        image: /images/sororitygrouppictureleaves.jpg
+        image: /images/shotbymarckwhite-sitelogo-with-blackoutline.png
         image_alt: Logo 3
       - type: grid_item
         template: grid_item
