@@ -103,7 +103,7 @@ sections:
         label: Let's start
         url: /contact
         style: button
-    image: images/cta.svg
+    image: /images/sororitygrouppictureleaves.jpg
     image_alt: Illustration
     bg_color: light
 template: advanced
