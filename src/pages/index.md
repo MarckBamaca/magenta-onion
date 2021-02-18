@@ -69,7 +69,7 @@ sections:
           - Communication strategy
       - type: grid_item
         template: grid_item
-        title: Brand design
+        title: All day Wedding Photography
         image: /images/prettyeyeswithflowers.jpg
         content: |-
           - Brand development
