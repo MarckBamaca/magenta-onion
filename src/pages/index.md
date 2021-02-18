@@ -63,7 +63,7 @@ sections:
           *   Group shots with different outfits
           *   Business innovation and transformation
           *   Brand and strategy
-          *   Brand portfolio strategy
+          *   Brand portfolio strategy fsfsd[google.com](google.com)
           *   Design strategy
           *   Digital and experience strategy
           *   Communication strategy
