@@ -2,7 +2,7 @@
   "title": "ShotByMarck",
   "color_scheme": "light",
   "accent_color": "green",
-  "base_font": "karla",
+  "base_font": "fraunces",
   "header": {
     "type": "header",
     "template": "header",
