@@ -59,14 +59,14 @@ sections:
         template: grid_item
         title: Group and Greek Life shoots
         image: /images/sororitygrouppictureleaves.jpg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Group shots with different outfits
+          *   Business innovation and transformation
+          *   Brand and strategy
+          *   Brand portfolio strategy
+          *   Design strategy
+          *   Digital and experience strategy
+          *   Communication strategy
       - type: grid_item
         template: grid_item
         title: All day Wedding Photography
