@@ -34,7 +34,7 @@ sections:
         image_alt: Logo 1
       - type: grid_item
         template: grid_item
-        image: images/logo-2.svg
+        image: /images/femaleroyaltyportrait-2.jpg
         image_alt: Logo 2
       - type: grid_item
         template: grid_item
