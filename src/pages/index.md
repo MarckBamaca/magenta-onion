@@ -30,7 +30,7 @@ sections:
     grid_items:
       - type: grid_item
         template: grid_item
-        image: images/logo-1.svg
+        image: /images/graduationpictureincity.jpg
         image_alt: Logo 1
       - type: grid_item
         template: grid_item
