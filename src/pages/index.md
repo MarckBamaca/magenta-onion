@@ -82,7 +82,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Experience design
-        image: images/service-3.svg
+        image: /images/graduationpictureincity.jpg
         content: |-
           - Digital product design
           - Service design
