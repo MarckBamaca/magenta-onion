@@ -71,14 +71,14 @@ sections:
         template: grid_item
         title: All day Wedding Photography
         image: /images/prettyeyeswithflowers.jpg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   All day coverage
+          *   Formal lighting shooting
+          *   Pricing
+          *   Design systems
+          *   Concept development
+          *   Brand implementation and management
+          *   Typography
       - type: grid_item
         template: grid_item
         title: Experience design
