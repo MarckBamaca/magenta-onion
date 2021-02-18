@@ -70,7 +70,7 @@ sections:
       - type: grid_item
         template: grid_item
         title: Brand design
-        image: images/service-2.svg
+        image: /images/prettyeyeswithflowers.jpg
         content: |-
           - Brand development
           - Naming
