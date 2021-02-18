@@ -38,7 +38,7 @@ sections:
         image_alt: Logo 2
       - type: grid_item
         template: grid_item
-        image: images/logo-3.svg
+        image: /images/sororitygrouppictureleaves.jpg
         image_alt: Logo 3
       - type: grid_item
         template: grid_item
