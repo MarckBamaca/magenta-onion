@@ -81,7 +81,7 @@ sections:
           *   Typography
       - type: grid_item
         template: grid_item
-        title: Experience design
+        title: Graduation shoots
         image: /images/graduationpictureincity.jpg
         content: |-
           - Digital product design
