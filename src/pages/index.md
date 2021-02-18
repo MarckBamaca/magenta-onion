@@ -5,9 +5,7 @@ sections:
   - type: hero_section
     template: hero_section
     section_id: hero
-    title: >-
-      This is an Award Winning Agency Based in San Francisco and Focusing on
-      Digital, Identity, and Print Design.
+    title: ShotByMarck
     content: >
       Capturing the moments of your life the way you want. [Let's
       talk](/contact/).
