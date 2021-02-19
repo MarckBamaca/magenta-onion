@@ -10,7 +10,7 @@ sections:
     image: /images/graduationpictureincity.jpg
     image_alt: Subtle 1
     caption: This is the caption of the image
-    width: wide
+    width: regular
   - type: text_section
     template: text_section
     content: >-
