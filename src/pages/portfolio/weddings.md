@@ -17,7 +17,7 @@ sections:
     type: image_section
     image: /images/sororitygrouppictureleaves-2.jpg
     image_alt: ''
-    caption: Wedding royalty
+    caption: Wedding fsdfsdfsd
   - template: image_section
     width: regular
     type: image_section
