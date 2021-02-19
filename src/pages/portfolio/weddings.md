@@ -19,7 +19,7 @@ sections:
     image_alt: ''
     caption: Wedding royalty
   - template: image_section
-    width: wide
+    width: regular
     type: image_section
     image: /images/prettyeyeswithflowers.jpg
     image_alt: 'wide width of image '
