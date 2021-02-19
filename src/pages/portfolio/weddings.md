@@ -23,7 +23,7 @@ sections:
     type: image_section
     image: /images/prettyeyeswithflowers.jpg
     image_alt: 'wide width of image '
-    caption: widing width under caption
+    caption: widing width under caption kp;kopkl;
   - template: text_section
     type: text_section
     content: >-
